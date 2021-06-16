@@ -1,4 +1,9 @@
 # 팔라독 게임
+### ✔ ppt
+[1조 팔라독 프로젝트-변환됨.pdf](https://github.com/kimhaengun/Project-Paladog/files/6660701/1.-.pdf)
+
+
+
 ## ✔시연 영상 (사진 클릭시 유튜브 이동)
 <a href = "https://www.youtube.com/watch?v=G2AKwVZouzM"> ![KakaoTalk_20201216_160845264](https://user-images.githubusercontent.com/74044292/102357090-545d4900-3ff1-11eb-9e8d-5641c1665004.png)</a>
 
